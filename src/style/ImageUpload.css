@@ -1,0 +1,24 @@
+.image-upload {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    align-items: center;
+    background-color: white;
+}
+
+.image-upload__progress {
+    width: 100%;
+    margin: 5px;
+}
+
+.image-upload__file {
+    width: 100%;
+    margin: 5px;
+}
+
+.image-upload__caption {
+    width: 100%;
+    margin: 5px;
+    height: 50px;
+    border: 1px solid lightgrey;
+}

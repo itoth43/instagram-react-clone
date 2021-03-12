@@ -1,0 +1,8 @@
+// Additions to add after full tut. 
+- Polaroid theme - photos have polaroid frame, filter
+- Login Modal and fullscreen if no user signed in. -> {!user && modal}
+- Video upload? 
+- Image Upload Modal ✅
+- Image capture ability
+- Add user profile image to comment
+- Add user profile image upload ability for user profile
